@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.AssemblyInfo.cs
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Exemplo9\Exemplo9\bin\Debug\net8.0\Exemplo9.exe
+C:\Users\user\Desktop\Exemplo9\Exemplo9\bin\Debug\net8.0\Exemplo9.deps.json
+C:\Users\user\Desktop\Exemplo9\Exemplo9\bin\Debug\net8.0\Exemplo9.runtimeconfig.json
+C:\Users\user\Desktop\Exemplo9\Exemplo9\bin\Debug\net8.0\Exemplo9.dll
+C:\Users\user\Desktop\Exemplo9\Exemplo9\bin\Debug\net8.0\Exemplo9.pdb
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.dll
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\refint\Exemplo9.dll
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.pdb
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\Exemplo9.genruntimeconfig.cache
+C:\Users\user\Desktop\Exemplo9\Exemplo9\obj\Debug\net8.0\ref\Exemplo9.dll
