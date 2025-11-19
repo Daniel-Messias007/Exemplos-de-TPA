@@ -1,0 +1,14 @@
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.AssemblyInfoInputs.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.AssemblyInfo.cs
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.csproj.CoreCompileInputs.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\bin\Debug\net8.0\Exemplo 12.exe
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\bin\Debug\net8.0\Exemplo 12.deps.json
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\bin\Debug\net8.0\Exemplo 12.runtimeconfig.json
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\bin\Debug\net8.0\Exemplo 12.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\bin\Debug\net8.0\Exemplo 12.pdb
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\refint\Exemplo 12.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.pdb
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\Exemplo 12.genruntimeconfig.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo 12\Exemplo 12\obj\Debug\net8.0\ref\Exemplo 12.dll
