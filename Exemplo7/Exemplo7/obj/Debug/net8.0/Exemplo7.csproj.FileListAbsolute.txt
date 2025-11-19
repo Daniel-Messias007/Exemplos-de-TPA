@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Exemplo7\Exemplo7\bin\Debug\net8.0\Exemplo7.exe
+C:\Users\user\Desktop\Exemplo7\Exemplo7\bin\Debug\net8.0\Exemplo7.deps.json
+C:\Users\user\Desktop\Exemplo7\Exemplo7\bin\Debug\net8.0\Exemplo7.runtimeconfig.json
+C:\Users\user\Desktop\Exemplo7\Exemplo7\bin\Debug\net8.0\Exemplo7.dll
+C:\Users\user\Desktop\Exemplo7\Exemplo7\bin\Debug\net8.0\Exemplo7.pdb
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.AssemblyInfo.cs
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.dll
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\refint\Exemplo7.dll
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.pdb
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\Exemplo7.genruntimeconfig.cache
+C:\Users\user\Desktop\Exemplo7\Exemplo7\obj\Debug\net8.0\ref\Exemplo7.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\bin\Debug\net8.0\Exemplo7.exe
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\bin\Debug\net8.0\Exemplo7.deps.json
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\bin\Debug\net8.0\Exemplo7.runtimeconfig.json
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\bin\Debug\net8.0\Exemplo7.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\bin\Debug\net8.0\Exemplo7.pdb
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.AssemblyInfoInputs.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.AssemblyInfo.cs
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.csproj.CoreCompileInputs.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\refint\Exemplo7.dll
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.pdb
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\Exemplo7.genruntimeconfig.cache
+D:\1 ano etec\TPA\Exemplos 17-11\Exemplo7 N\Exemplo7\obj\Debug\net8.0\ref\Exemplo7.dll
